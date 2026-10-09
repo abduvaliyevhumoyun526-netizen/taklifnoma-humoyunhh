@@ -2,5 +2,7 @@
   "name": "Taklifnoma - Luxury Digital Event Invitations",
   "description": "Premium interactive digital wedding and event invitation web application with multi-language support, custom designs, RSVP, and instant shareable links.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
